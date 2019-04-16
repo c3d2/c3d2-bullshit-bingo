@@ -12,7 +12,7 @@
 
 body {
 	background-color: #a1a1a1;
-	background-image: url('../img/wood.background.png');
+	background-image: url('../img/c3d2.background.jpg');
 	font-family: "BodoniSvtyTwoOSITCTT-Bold", "Georgia", serif;
 	text-rendering: optimizeLegibility;
 }
@@ -23,16 +23,16 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	background-color: none;
-}	
+}
 
 #header, #footer {
 	display: block;
 	float: left;
 	width: 600px;
-	color: #8B3E2F;
+	color: #ffffff;
 	opacity: 0.5;
 	text-shadow: 0px 1px 0px #e1e1e1, 0px -1px 0px #313131;
-   	background-color: none;
+	background-color: none;
 	font-size: 2.8em;
 	font-weight: bold;
 	padding: 8px 20px 8px 20px;
@@ -53,7 +53,7 @@ body {
 
 #footer a {
 	text-decoration: none;
-	color: #8B3E2F;
+	color: #ffffff;
 }
 
 #board {
@@ -113,8 +113,8 @@ body {
    	background-color: red;
 }
 
-@media only screen 
-and (min-device-width : 320px) 
+@media only screen
+and (min-device-width : 320px)
 and (max-device-width : 480px) {
 
 	#container {
@@ -127,8 +127,8 @@ and (max-device-width : 480px) {
 		text-align: center;
 		padding: 20px 20px 12px 20px;
 	}
-	
-	#footer {	
+
+	C3D2-Bullshit-#footer {
 		padding: 16px 20px 8px 20px;
 		font-size: 2.0em;
 	}
