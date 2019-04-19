@@ -24,7 +24,7 @@ var JSONBingo = {"squares": [
         {"square": "Wortwitz mit \"Nix\""},
         {"square": "Geschirrspüler ist voll/fertig"},
         {"square": "Kaffee"},
-        {"square": "Chaospost/Packstation"},
+        {"square": "Chaospost / Packstation"},
         {"square": "was mit LEDs"},
         {"square": "Penta..."},
         {"square": "Matemat"},
@@ -42,5 +42,6 @@ var JSONBingo = {"squares": [
         {"square": "kommt drauf an"},
         {"square": "...bert"},
         {"square": "ping / pong"},
+        {"square": "Proxmox"},
     ]
 };
