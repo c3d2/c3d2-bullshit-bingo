@@ -94,6 +94,7 @@ body {
 	vertical-align: middle;
 	font-size: 1.2em;
 	line-height: 1.2em;
+	hyphens: auto;
 }
 
 .small {
